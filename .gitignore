@@ -1,0 +1,7 @@
+.terraform
+/terraform/.terraform
+/MyApp/.vs
+notes.txt
+plan.yml
+terraform
+old_terraform
